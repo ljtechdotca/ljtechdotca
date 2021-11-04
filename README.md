@@ -1,6 +1,21 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljtechdotca&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/ljtechdotca)
+<h1 align="center">👋 Hello there, I'm lj</h1>
 
-[![WakaTime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=ljtech&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@ljtech)
+<p align="center">
+    <a href="https://twitch.tv/ljtechdotca"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitch.svg" /></a>
+    <a href="https://twitter.com/ljtechdotca"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
+</p>
 
-[<img src="https://api.speedtyper.dev/users/ljtechdotca/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/ljtechdotca) 
-[<img src="https://api.speedtyper.dev/users/ljtechdotca/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/ljtechdotca) 
+Welcome to my Github profile! Here you can find all sorts of side projects I've built while streaming live on [Twitch](https://twitch.tv/ljtechdotca). I typically use TypeScript, Sass, Next.js for work.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljtechdotca&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="ljtech" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ljtechdotca&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="ljtech" /></p>
+
+visit [ljtech.ca](https://ljtech.ca) for more
+---
+<div align="center">
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
+</div>
