@@ -9,15 +9,9 @@ Welcome to my Github profile! Here you can find all sorts of side projects I've 
 
 Regarding the technology I use; I love working with TypeScript, Sass, and Next.js.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljtechdotca&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="ljtech" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ljtechdotca&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="ljtech" /></p>
 
 visit [ljtech.ca](https://ljtech.ca) for more
 ---
-<div align="center">
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
-</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ljtechdotca&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="ljtech" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ljtechdotca&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="ljtech" /></p>
