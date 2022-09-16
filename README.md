@@ -7,7 +7,7 @@
 
 Welcome to my Github profile! Here you can find all sorts of side projects I've built while streaming live on [Twitch](https://twitch.tv/ljtechdotca). Feel free to drop by sometime to ask a question or just say hello!
 
-Regarding the technology I use; I love working with TypeScript, Sass, and Next.js.
+Regarding the technology I use; I love working with TypeScript, Sass, and React/Next.js.
 
 
 visit [ljtech.ca](https://ljtech.ca) for more
