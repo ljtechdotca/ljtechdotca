@@ -1,4 +1,4 @@
-# Hello world, I'm LJ
+### Hello world, I'm LJ
 
 Looks like you found my GitHub profile! 🎉<br/>
 I typically work with C#, JavaScript/TypeScript, HTML, SCSS.<br/>
