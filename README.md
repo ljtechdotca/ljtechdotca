@@ -21,7 +21,7 @@ const landon = {
     pronouns: ["He", "Him"],
     currentFocus: "Working on personal projects.",
     interests: ["Carpentry", "Coding", "Gardening"],
-    languages: ["CSS", "HTML", "Javascript", "TypeScript"],
+    languages: ["CSS", "HTML", "JavaScript", "TypeScript"],
     technologies: {
         js: ["Express.js", "Node.js", "Next.js", "React"],
         database: ["Mongo", "MySQL", "SQLite"],
