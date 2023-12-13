@@ -25,7 +25,7 @@ const landon = {
     technologies: {
         js: ["Express.js", "Node.js", "Next.js", "React"],
         database: ["Mongo", "MySQL", "SQLite"],
-        testing: ["Cypress", "Jest", "Mocha", "Selenium"]
+        testing: ["Cypress", "Jest", "Mocha", "Selenium"],
         design: ["Adobe Suite", "Autodesk Suite", "Creative Cloud", "Blender", "Figma"]
     },
     architecture: ["Monolithic", "PWA", "Serverless", "SPA"],
