@@ -21,13 +21,6 @@ const landon = {
     pronouns: ["He", "Him"],
     currentFocus: "Working on personal projects.",
     interests: ["Carpentry", "Coding", "Gardening"],
-    languages: ["CSS", "HTML", "JavaScript", "TypeScript"],
-    technologies: {
-        js: ["Express.js", "Node.js", "Next.js", "React"],
-        database: ["Mongo", "MySQL", "SQLite"],
-        testing: ["Cypress", "Jest", "Mocha", "Selenium"],
-        design: ["Adobe Suite", "Autodesk Suite", "Creative Cloud", "Blender", "Figma"]
-    },
-    architecture: ["Monolithic", "PWA", "Serverless", "SPA"],
+    languages: ["CSS", "HTML", "JavaScript", "TypeScript", "C#"],
 };
 ```
