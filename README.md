@@ -1,4 +1,4 @@
-## Howdy Partner, I'm Landon Johnson! *AKA [ljtech](https://ljtech.ca)*
+## Howdy Partner, I'm Landon Johnson! *AKA [ljtech](https://github.com/ljtech)*
 
 ### Welcome to my GitHub Profile!
 **Who am I?** I'm a web developer and IT consultant with over 10 years of experience whose currently based in British Columbia.
