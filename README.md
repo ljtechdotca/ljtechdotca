@@ -26,4 +26,3 @@ const landon = {
     languages: ["CSS", "HTML", "JavaScript", "TypeScript", "C#"],
 };
 ```
-Read my [blog](https://ljtech.ca/blog)!
