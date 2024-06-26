@@ -3,10 +3,6 @@
 ### Welcome to my GitHub Profile!
 **Who am I?** I'm a web developer and IT consultant with over 10 years of experience whose currently based in British Columbia.
 
-Let me create a website tailored to your needs, one you'll be proud to call your own.
-
-Check out my [portfolio](https://ljtech.ca/portfolio) and reach out to bring your vision to life!
-
 #### Details about me:
 
 ```javascript
